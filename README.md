@@ -7,5 +7,6 @@
 ### Contact me:
 ## LinkedIn [Vinicius Polo](https://www.linkedin.com/in/vinicius-polo-9138912a)
 
-Experiências Principais
-![Java](java.png) ![PHP](php.png)
+### Main Languages :
+
+![Java](java-1.png) ![PHP](php-3.png)
