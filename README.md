@@ -6,7 +6,7 @@
 
 ### Main Languages :
 
-![Java](java-1.png) ![PHP](php-3.png) ![Python](python.png) ![JavaScript](js.png)
+![JavaScript](js.png) ![Java](java-1.png) ![PHP](php-3.png) ![Python](python.png) 
 
 ### Actualy I use this databases:
 
